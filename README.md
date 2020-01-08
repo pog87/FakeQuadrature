@@ -9,7 +9,7 @@ Universita' di Padova.
 
 To use this work in any scientific report or publication, please cite:
 
-  * S. De Marchi, G. Elefante, E. Perracchione, D. Poggiali, *Quadrature at \emph{fake nodes}* [link](), preprint.
+  * S. De Marchi, G. Elefante, E. Perracchione, D. Poggiali, *Quadrature at fake nodes* [link](), preprint.
   * S. De Marchi, F. Marchetti, E. Perracchione, D. Poggiali, *Polynomial interpolation via mapped bases without resampling* [link](https://www.sciencedirect.com/science/article/pii/S0377042719303449), JCAM.
  
 ![img](gibbsfig.png)
