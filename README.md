@@ -13,7 +13,7 @@ Last modified: 08/01/20.
 The script provides an example of the use of the fake nodes for mitigating 
 both Runge and Gibbs phenomena when computing the quadrature wheigts. 
 
-An example, which can be recovered with the notebooks S-Runge.ipynb
+For an example, which can be recovered with the notebooks S-Runge.ipynb
 and S-Gibbs.ipynb, we refer to the following figures. 
 
 Quadrature under Fake Nodes mitigating the Runge and Gibbs effect.
