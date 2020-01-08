@@ -3,7 +3,7 @@
 FOSS Python software related to the Fake Nodes approach for getting a better quadrature without computing new samples.
 
 Authors: S. De Marchi, G. Elefante, E. Perracchione, D. Poggiali, 
-Universita' di Padova.
+Università di Padova.
 
 ## Quote this work
 
