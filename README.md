@@ -10,8 +10,9 @@ Università di Padova.
 To use this work in any scientific report or publication, please cite:
 
   * S. De Marchi, G. Elefante, E. Perracchione, D. Poggiali, *Quadrature at fake nodes* [link](), preprint.
-  * S. De Marchi, F. Marchetti, E. Perracchione, D. Poggiali, *Polynomial interpolation via mapped bases without resampling* [link](https://www.sciencedirect.com/science/article/pii/S0377042719303449), JCAM.
- 
+  * S. De Marchi, F. Marchetti, E. Perracchione, D. Poggiali, *Polynomial interpolation via mapped bases without resampling* [link](https://www.sciencedirect.com/science/article/pii/S0377042719303449), J. Comput. Appl. Math., 364 (2020), 112347--12.
+   * J.P. Berrut, S. De Marchi, G. Elefante, F. Marchetti, *Treating the Gibbs phenomenon in barycentric rational interpolation via the S-Gibbs algorithm*, to appear on Appl. Math. Letters. 2019.
+   
 ![img](gibbsfig.png)
 
 
