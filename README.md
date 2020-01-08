@@ -1,6 +1,6 @@
 # FakeQuadrature
 
-FOSS Python software related to the Fake Nodes approach for getting a better quadrature without computing new samples.
+FOSS Python software related to the Fake Nodes approach for getting a more stable quadrature without computing new samples.
 
 Authors: S. De Marchi, G. Elefante, E. Perracchione, D. Poggiali, 
 Università di Padova.
