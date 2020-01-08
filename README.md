@@ -31,13 +31,13 @@ S = lambda x: -2 * np.cos( np.pi* (x+2)/2 )
 x = np.linspace( -2, 2, 20 )
 ```
 
-so you can now compute the integral of $f(x)$ in the interval $[-2,2]$ with S-FakeNodes
+so you can now compute the integral of f(x) in the interval [-2,2] with S-FakeNodes
 
 ```python
 weights = quadrature_weights( x, (-2,2), mapping = S )
 Integral = np.dot( f(x) , weights ) 
 ```
- if you want to compute the approximate integral the usual way, it is sufficient **not** to specify a mapping $S$.
+ if you want to compute the approximate integral the usual way, it is sufficient **not** to specify a mapping S.
 
 
 ## Fake Nodes for quadrature
