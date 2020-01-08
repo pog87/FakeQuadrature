@@ -46,7 +46,7 @@ both Runge and Gibbs phenomena when computing the quadrature wheigts.
 
 ![img](rungefig.png)
 
-Quadrature under Fake Nodes mitigate the Runge and Gibbs effect.
+Quadrature under Fake Nodes mitigate the [Runge](S-Runge.ipynb) and [Gibbs](S-Gibbs.ipynb) effect.
 
 
 
