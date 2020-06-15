@@ -14,6 +14,6 @@ def quadrature_weights(nodes, interval, mapping = None):
     if mapping is None:
         mapping = lambda x: x       
     funcf = lambda y,k: lagrange_k(mapping(y),mapping(nodes),k)
-    weights = [ quad( funcf, a, b, args=(k,))[0] for k in range(N_nodes) ]
+    weights = [ quad( funcf, a, b, epsabs = 1.e-9, limit=250, args=(k,))[0] for k in range(N_nodes) ]
     return np.array(weights)
 
